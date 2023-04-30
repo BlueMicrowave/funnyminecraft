@@ -1,4 +1,3 @@
 # funnyminecraft
 eaglercraft
-i made this for my friends in school
-i might add more games later
+here for archival purposes
